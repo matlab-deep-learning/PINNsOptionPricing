@@ -53,3 +53,4 @@ Comparing the prediction and analytical solutions, the PINNs approximation has t
  - [Solve Poisson Equation on Unit Disk Using Physics-Informed Neural Network](https://www.mathworks.com/help/pde/ug/solve-poisson-equation-on-unit-disk-using-pinn.html)
  - A. Dhiman, Y. Hu, Physics Informed Neural Network for Option Pricing, [arXiv:2312.06711](https://arxiv.org/abs/2312.06711)
  - S. Wang, S. Sanharan, H. Wang, and P. Perdikaris, An expert's guide to training physics-informed neural networks, [arXiv:2308.08468](https://arxiv.org/abs/2308.08468)
+ - [SciML-and-Physics-Informed-Machine-Learning-Examples](https://github.com/matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples)
